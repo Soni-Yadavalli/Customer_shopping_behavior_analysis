@@ -70,5 +70,3 @@ This project demonstrates an end-to-end data analytics workflow, simulating real
 
 This project showcases a complete data analytics lifecycle, from raw data processing to delivering actionable insights through interactive dashboards.
 
-
-- Validated key metrics like Total Sales and Total Profit
